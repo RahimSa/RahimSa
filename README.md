@@ -7,8 +7,8 @@
   - Pop music
   - Relax music
 - ## :v: *Develop fine motor skills*
-  - Pen spinning
-  - Rubik's cube
+  - Penspinning
+  - Speedcubing
 - ## :bicyclist: *Cycling*
 - ## :chart_with_upwards_trend: Improve
   - Watch useful videos
