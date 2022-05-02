@@ -9,10 +9,13 @@
 - ## :v: *Develop fine motor skills*
   - Penspinning
   - Speedcubing
-- ## :bicyclist: *Cycling*
+- ## :running: *Sport*
+  - Cycling
+  - Table tennis
 - ## :chart_with_upwards_trend: Improve
   - Watch useful videos
   - Read useful books
+- ## 
 ___
 
  ## **`Languages`**
